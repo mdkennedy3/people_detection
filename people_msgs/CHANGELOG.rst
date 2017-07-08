@@ -2,8 +2,8 @@
 Changelog for package people_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.12 (2017-07-08)
+-------------------
 * changelogs
 * changed maintainer
 * Contributors: Marc Hanheide

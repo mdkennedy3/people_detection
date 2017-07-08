@@ -2,8 +2,8 @@
 Changelog for package leg_detector
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.12 (2017-07-08)
+-------------------
 * changelogs
 * changed maintainer
 * added deps

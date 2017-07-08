@@ -2,8 +2,8 @@
 Changelog for package face_detector
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.12 (2017-07-08)
+-------------------
 * changelogs
 * changed maintainer
 * Added id to shown image (`#43 <https://github.com/lcas/people_detection/issues/43>`_)

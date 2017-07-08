@@ -2,8 +2,8 @@
 Changelog for package people
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.12 (2017-07-08)
+-------------------
 * changelogs
 * remove velocity tracker as it wont build on kinetic
 * changed maintainer

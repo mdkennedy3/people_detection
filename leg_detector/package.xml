@@ -3,7 +3,7 @@
   <version>1.0.10</version>
   <description>Leg Detector using a machine learning approach to find leg-like patterns of laser scanner readings.</description>
   <author>Caroline Pantofaru</author>
-  <maintainer email="davidvlu@gmail.com">David V. Lu!!</maintainer>
+  <maintainer email="marc@hanheide.net">Marc Hanheide</maintainer>
   <license>BSD</license>
   <url>http://ros.org/wiki/leg_detector</url>  
 

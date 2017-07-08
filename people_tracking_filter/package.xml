@@ -5,7 +5,7 @@
   A collection of filtering tools for tracking people's locations
   </description>
   <author>Caroline Pantofaru</author>
-  <maintainer email="davidvlu@gmail.com">David V. Lu!!</maintainer>
+  <maintainer email="marc@hanheide.net">Marc Hanheide</maintainer>
   <license>BSD</license>
   <url>http://ros.org/wiki/people_tracking_filter</url>  
 

@@ -4,6 +4,10 @@ Changelog for package people_msgs
 
 Forthcoming
 -----------
+* changelogs
+* changed maintainer
+* Contributors: Marc Hanheide
+
 * changed maintainer
 * Contributors: Marc Hanheide
 

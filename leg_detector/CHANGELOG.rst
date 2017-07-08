@@ -2,6 +2,22 @@
 Changelog for package leg_detector
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* changed maintainer
+* added deps
+* Remove dependency on people_msgs generation
+  The dependency on the people_msgs package should be enough. This removes
+  warnings for the leg_detector and people_tracking_filter when building
+  with catkin_make_isolated and catkin build.
+* Fix missing fuzzy prediction from opencv2
+  In opencv3 the predict_prob method was removed from cv::ml::RTrees.
+* Fix CvMat change in OpenCV3
+  The cv::ml package has been rewritten. I just changed the code to
+  accomodate the new api, maybe this does not conform to the way the new
+  cv::ml should be used...
+* Contributors: Karl D. Hansen, Marc Hanheide
+
 1.0.9 (2015-09-01)
 ------------------
 * Fix handling of scans with negative angle increment

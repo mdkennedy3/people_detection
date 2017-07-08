@@ -2,6 +2,15 @@
 Changelog for package people_tracking_filter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* changed maintainer
+* Remove dependency on people_msgs generation
+  The dependency on the people_msgs package should be enough. This removes
+  warnings for the leg_detector and people_tracking_filter when building
+  with catkin_make_isolated and catkin build.
+* Contributors: Karl D. Hansen, Marc Hanheide
+
 1.0.9 (2015-09-01)
 ------------------
 * Update CMakeLists.txt

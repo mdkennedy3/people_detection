@@ -2,6 +2,15 @@
 Changelog for package people
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* remove velocity tracker as it wont build on kinetic
+* changed maintainer
+* Revert "Remove no build packages from metapackage."
+  This reverts commit 0bda254faade07474ee11dc952b0664ea4d1260e.
+* Remove no build packages from metapackage.
+* Contributors: David V. Lu!!, Karl D. Hansen, Marc Hanheide
+
 1.0.9 (2015-09-01)
 ------------------
 

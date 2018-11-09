@@ -979,6 +979,7 @@ public:
 
     people_msgs::PositionMeasurementArray array;
     array.header.stamp = ros::Time::now();
+    array.header.frame_id = fixed_frame;
     if (publish_legs_)
     {
       array.people = legs;

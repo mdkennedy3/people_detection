@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(face_detector)
 
+find_package(OpenCV 2 REQUIRED)
+
 find_package(catkin REQUIRED COMPONENTS
   roscpp
   std_msgs
@@ -21,7 +23,6 @@ find_package(catkin REQUIRED COMPONENTS
   roslib)
 
 find_package(Boost REQUIRED COMPONENTS signals system thread)
-find_package(OpenCV)
 
 include_directories(
   include
